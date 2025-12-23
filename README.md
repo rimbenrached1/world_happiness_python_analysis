@@ -45,7 +45,7 @@ The project combines data preparation, exploratory data analysis, KPIs, and visu
 ## Repository Structure
 
 ```text
-World_Hapiness_Report/
+World_Happiness_Report/
 ├─ raw_datasets/
 │  ├─ WHR_2015.xls
 │  ├─ WHR_2016.xls
@@ -58,7 +58,7 @@ World_Hapiness_Report/
 │  └─ WHR_2023.xls
 ├─ data_merging.ipynb
 ├─ whr_2015_2023.xls
-└─ world_hapiness_report_2015_2023.ipynb
+└─ world_happiness_report_2015_2023.ipynb
 ```
 
 ---
