@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**World_Hapiness_Report** is a data analysis project based on the **World Happiness Report (2015–2023)**.
+**World_Happiness_Report** is a data analysis project based on the **World Happiness Report (2015–2023)**.
 It studies global happiness levels, their dispersion across countries, and the key economic, social, and institutional factors that drive well-being.
 
 The project combines data preparation, exploratory data analysis, KPIs, and visualizations to support **data-driven insights and public policy recommendations**.
